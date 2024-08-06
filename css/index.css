@@ -1,0 +1,57 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    font-family: "Grandiflora One", cursive;
+    background-color: #2c333b;
+    background-image: url("watercolor-paper-texture.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.typewriter h1 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid orange; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 45vh auto 0; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 3.5s steps(15, end),
+      blink-caret .75s step-end infinite;
+}
+
+.typewriter2 h1 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid orange; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 2vh auto 0; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 3.5s steps(15, end),
+      blink-caret .75s step-end infinite;
+}
+
+h1{
+    color: #e0ff00;
+    font-weight: bolder;
+}
+
+/* The typing effect */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: white; }
+}
+  

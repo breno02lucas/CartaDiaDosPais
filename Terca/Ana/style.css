@@ -1,0 +1,18 @@
+body{
+    background-color: #ADD8E6;
+    text-align: center;
+    justify-content: center;
+}
+
+p{
+	font-family: arial;
+}
+
+p{
+	font-size: 15px;
+	margin: 20px 100px;
+}
+
+img{
+    width: 40%;
+}

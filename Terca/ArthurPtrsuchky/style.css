@@ -1,0 +1,13 @@
+body{
+	background-color: #c22a1e;
+	text-align: center; 
+}
+p{
+	font-family: consolas;
+	font-size: 32px; 
+	font-weight: bold;
+	margin: 20px 5%;
+}
+img{
+	width: 40%;
+}

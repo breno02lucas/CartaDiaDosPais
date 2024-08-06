@@ -1,0 +1,18 @@
+body{ 
+	background-color: #81D8D0;
+	text-align: center;
+	justify-content: center;
+}
+p{
+	font-family:consolas;
+}
+h1{
+	font-family:consolas;
+}
+p{
+	color: blue;
+}
+
+img{
+	width: 40%;
+}

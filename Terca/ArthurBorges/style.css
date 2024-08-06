@@ -1,0 +1,11 @@
+body{
+	background-color:#416951;
+	text-align: center;
+	justify-content: center;
+}
+p{
+	font-family: castle tling;
+	color: black;
+	font-size: 22px;
+	margin: 20px 5%;
+}

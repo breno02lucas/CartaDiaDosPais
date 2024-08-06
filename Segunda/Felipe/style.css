@@ -1,0 +1,26 @@
+body {
+	background-color: #FF004F;
+	text-align: center;
+	justify-content: center;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+p {
+	color: white;
+	font-size: 25px;
+	margin: 0 20%;
+}
+
+h6 {
+	color: white;
+}
+img{
+	width: 40%;
+}

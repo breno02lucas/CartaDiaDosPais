@@ -1,0 +1,14 @@
+body{
+	background-color:#87CEEB;
+	text-align: center;
+	justify-content: center;
+}
+
+p{
+	font-size: 15px;
+	margin: 20px 5%;
+}
+
+img{
+	width: 40%;
+}

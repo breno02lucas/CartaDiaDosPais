@@ -1,0 +1,28 @@
+body{
+	background-color: #FFA500;
+	text-align: center;
+}
+ h1{
+ 	color:#FF0657;
+ }
+
+ p{
+ 	font-size: 25px;
+ 	margin: 0 20%;
+ }
+
+ h3{
+ 	color:#DD358A;
+ }
+
+ p{
+ 	color:#FF0000;
+ }
+
+h6{
+	color:#FFA500;
+}
+
+img{
+	width: 40%;
+}

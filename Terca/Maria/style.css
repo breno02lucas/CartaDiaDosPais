@@ -1,0 +1,16 @@
+body{
+	background-color:#BBF3F9;
+	text-align: center;
+	justify-content: center;
+}
+
+p{
+	font-family: consolas;
+	color: black;
+	font-size: 40px;
+	margin: 20px 100px;
+}
+
+img{
+	width: 40%;
+}

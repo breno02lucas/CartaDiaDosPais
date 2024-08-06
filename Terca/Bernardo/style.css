@@ -1,0 +1,14 @@
+body{
+	background-color:#2B58DE;
+	text-align: center;
+	justify-content: center;
+}
+p{
+	font-family: arial;
+	color: white;
+	font-size: 30px;
+	margin: 20px 5%;
+}
+img{
+	width: 40%;
+}
